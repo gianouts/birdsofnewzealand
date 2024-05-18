@@ -201,6 +201,7 @@ Sterna striata_White-fronted Tern
 Sterna sumatrana_Black-naped Tern
 Sterna vittata_Antarctic Tern
 Sternula albifrons_Little Tern
+Streptopelia chinensis_Spotted Dove
 Streptopelia roseogrisea_African Collared-Dove
 Sturnus vulgaris_European Starling
 Sula dactylatra_Masked Booby
